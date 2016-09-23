@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OVR/Scripts/Util/OVRPlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EventScroller.cs" Line="2" Column="27" />
+      <File FileName="../test.cs" Line="37" Column="2" />
+      <File FileName="Assets/OVR/Scripts/Util/OVRPlayerController.cs" Line="219" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

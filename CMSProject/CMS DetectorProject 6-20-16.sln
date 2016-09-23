@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS DetectorProject 6-20-16.CSharp", "CMS DetectorProject 6-20-16.CSharp.csproj", "{7203B299-789B-5B94-D39B-545885EA1381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS DetectorProject 6-20-16.CSharp.Editor", "CMS DetectorProject 6-20-16.CSharp.Editor.csproj", "{3A672596-4F76-4D3F-D793-9484CEBD91C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7203B299-789B-5B94-D39B-545885EA1381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7203B299-789B-5B94-D39B-545885EA1381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7203B299-789B-5B94-D39B-545885EA1381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7203B299-789B-5B94-D39B-545885EA1381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A672596-4F76-4D3F-D793-9484CEBD91C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A672596-4F76-4D3F-D793-9484CEBD91C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A672596-4F76-4D3F-D793-9484CEBD91C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A672596-4F76-4D3F-D793-9484CEBD91C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

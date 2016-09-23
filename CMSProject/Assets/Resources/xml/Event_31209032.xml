@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="calo">
+       <pt>0</pt>
+       <eta>0</eta>
+       <phi>0</phi>
+       <charge>0</charge>
+    </Item>
+    <Item name="muon_0">
+       <pt>46.8007</pt>
+       <eta>0.0982025</eta>
+       <phi>0.367932</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="muon_1">
+       <pt>41.8308</pt>
+       <eta>0.575716</eta>
+       <phi>-2.80369</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_0">
+       <pt>41.9146</pt>
+       <eta>0.575723</eta>
+       <phi>-2.80368</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_1">
+       <pt>2.18643</pt>
+       <eta>0.721861</eta>
+       <phi>-1.88271</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_2">
+       <pt>0.944754</pt>
+       <eta>0.680079</eta>
+       <phi>-1.53655</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_3">
+       <pt>0.788398</pt>
+       <eta>0.88927</eta>
+       <phi>-1.44976</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_4">
+       <pt>1.04214</pt>
+       <eta>1.55368</eta>
+       <phi>-0.924067</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_5">
+       <pt>46.9422</pt>
+       <eta>0.0980786</eta>
+       <phi>0.367895</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_6">
+       <pt>0.673276</pt>
+       <eta>-1.24252</eta>
+       <phi>0.931455</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_7">
+       <pt>3.27528</pt>
+       <eta>-0.2068</eta>
+       <phi>1.1381</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_8">
+       <pt>0.999841</pt>
+       <eta>-0.109822</eta>
+       <phi>1.15645</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_9">
+       <pt>0.786097</pt>
+       <eta>-1.24249</eta>
+       <phi>1.30538</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_10">
+       <pt>0.656935</pt>
+       <eta>1.97648</eta>
+       <phi>3.06118</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_11">
+       <pt>0.981507</pt>
+       <eta>1.99945</eta>
+       <phi>-3.11391</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_12">
+       <pt>0.444247</pt>
+       <eta>0.517333</eta>
+       <phi>-1.53099</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_13">
+       <pt>0.365068</pt>
+       <eta>1.61724</eta>
+       <phi>2.00931</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_14">
+       <pt>1.59128</pt>
+       <eta>0.678576</eta>
+       <phi>-2.88388</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_15">
+       <pt>0.904919</pt>
+       <eta>1.5182</eta>
+       <phi>-2.31949</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_16">
+       <pt>1.08884</pt>
+       <eta>1.86358</eta>
+       <phi>-0.680506</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_17">
+       <pt>0.518273</pt>
+       <eta>-2.37779</eta>
+       <phi>-0.44004</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_18">
+       <pt>0.540716</pt>
+       <eta>2.1586</eta>
+       <phi>1.95005</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_19">
+       <pt>0.430364</pt>
+       <eta>2.13137</eta>
+       <phi>2.65047</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_20">
+       <pt>2.11665</pt>
+       <eta>2.40369</eta>
+       <phi>2.90004</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_21">
+       <pt>0.985094</pt>
+       <eta>2.26287</eta>
+       <phi>-0.727418</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_22">
+       <pt>0.529213</pt>
+       <eta>-2.24618</eta>
+       <phi>-1.39668</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_23">
+       <pt>0.14064</pt>
+       <eta>0.0675453</eta>
+       <phi>-2.18461</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_24">
+       <pt>0.427524</pt>
+       <eta>0.756055</eta>
+       <phi>-1.35204</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_25">
+       <pt>0.454597</pt>
+       <eta>0.862601</eta>
+       <phi>-1.28963</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_26">
+       <pt>0.260193</pt>
+       <eta>0.0301225</eta>
+       <phi>-1.20912</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_27">
+       <pt>0.231925</pt>
+       <eta>-1.77411</eta>
+       <phi>1.27613</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_28">
+       <pt>0.25724</pt>
+       <eta>-1.82652</eta>
+       <phi>1.61042</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_29">
+       <pt>0.233115</pt>
+       <eta>-0.899029</eta>
+       <phi>2.08598</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_30">
+       <pt>0.2106</pt>
+       <eta>1.79002</eta>
+       <phi>2.23865</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_31">
+       <pt>0.165503</pt>
+       <eta>-2.05164</eta>
+       <phi>3.01327</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_32">
+       <pt>0.330968</pt>
+       <eta>-1.35926</eta>
+       <phi>2.91705</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_33">
+       <pt>0.374268</pt>
+       <eta>-2.31277</eta>
+       <phi>0.62199</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_34">
+       <pt>0.304643</pt>
+       <eta>-2.29324</eta>
+       <phi>0.505213</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_35">
+       <pt>0.0833724</pt>
+       <eta>-2.62685</eta>
+       <phi>0.425416</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_36">
+       <pt>0.168536</pt>
+       <eta>1.66984</eta>
+       <phi>-3.06933</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_37">
+       <pt>0.671038</pt>
+       <eta>-2.38973</eta>
+       <phi>-0.386277</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_38">
+       <pt>0.311374</pt>
+       <eta>-2.40713</eta>
+       <phi>0.121049</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_39">
+       <pt>0.323588</pt>
+       <eta>-0.56244</eta>
+       <phi>-0.616163</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_40">
+       <pt>0.27682</pt>
+       <eta>1.7911</eta>
+       <phi>-2.41159</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_41">
+       <pt>0.997067</pt>
+       <eta>-0.146697</eta>
+       <phi>1.22869</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_42">
+       <pt>0.583116</pt>
+       <eta>-0.929778</eta>
+       <phi>2.18573</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_43">
+       <pt>1.21168</pt>
+       <eta>1.95554</eta>
+       <phi>1.08662</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_44">
+       <pt>0.441698</pt>
+       <eta>1.87423</eta>
+       <phi>2.53672</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_45">
+       <pt>0.506841</pt>
+       <eta>2.14086</eta>
+       <phi>-0.538827</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_46">
+       <pt>0.319359</pt>
+       <eta>-1.47498</eta>
+       <phi>2.95566</phi>
+       <charge>-1</charge>
+    </Item>
+  </Items>
+</ItemCollection>

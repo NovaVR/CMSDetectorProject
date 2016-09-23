@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{04507305-9B73-542B-6826-FC56ACFAE4CB}") = "CMS Detector", "Assembly-CSharp.csproj", "{CE5B2AE0-D44A-6E85-FFE3-5DF06AB70DBA}"
+EndProject
+Project("{04507305-9B73-542B-6826-FC56ACFAE4CB}") = "CMS Detector", "Assembly-CSharp-Editor.csproj", "{AE3454E3-5BED-041E-F8C5-1D86FA93070D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5B2AE0-D44A-6E85-FFE3-5DF06AB70DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5B2AE0-D44A-6E85-FFE3-5DF06AB70DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5B2AE0-D44A-6E85-FFE3-5DF06AB70DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5B2AE0-D44A-6E85-FFE3-5DF06AB70DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3454E3-5BED-041E-F8C5-1D86FA93070D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3454E3-5BED-041E-F8C5-1D86FA93070D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3454E3-5BED-041E-F8C5-1D86FA93070D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3454E3-5BED-041E-F8C5-1D86FA93070D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

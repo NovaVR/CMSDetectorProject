@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3AC99885-B974-9612-3990-CD1CA908A79A}") = "fixed CMS DetectorProject 7-3-16 5.3.5", "Assembly-CSharp-firstpass.csproj", "{1E3D0E88-735F-28BA-F3BE-A3191F578E86}"
+EndProject
+Project("{3AC99885-B974-9612-3990-CD1CA908A79A}") = "fixed CMS DetectorProject 7-3-16 5.3.5", "Assembly-CSharp.csproj", "{D14B6B82-EC20-24B4-577D-1EAAA5D1212C}"
+EndProject
+Project("{3AC99885-B974-9612-3990-CD1CA908A79A}") = "fixed CMS DetectorProject 7-3-16 5.3.5", "Assembly-CSharp-Editor.csproj", "{C8E1E9C0-B84D-8DD9-07A2-670E625962F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3D0E88-735F-28BA-F3BE-A3191F578E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3D0E88-735F-28BA-F3BE-A3191F578E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3D0E88-735F-28BA-F3BE-A3191F578E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3D0E88-735F-28BA-F3BE-A3191F578E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14B6B82-EC20-24B4-577D-1EAAA5D1212C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14B6B82-EC20-24B4-577D-1EAAA5D1212C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14B6B82-EC20-24B4-577D-1EAAA5D1212C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14B6B82-EC20-24B4-577D-1EAAA5D1212C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E1E9C0-B84D-8DD9-07A2-670E625962F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1E9C0-B84D-8DD9-07A2-670E625962F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1E9C0-B84D-8DD9-07A2-670E625962F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1E9C0-B84D-8DD9-07A2-670E625962F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

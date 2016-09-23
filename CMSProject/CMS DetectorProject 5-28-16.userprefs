@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CrosshairRaycast.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CrosshairRaycast.cs" Line="39" Column="65" />
+      <File FileName="Assets\TextAtCamera.cs" Line="12" Column="34" />
+      <File FileName="Assets\Scripts\Crosshair3D.cs" Line="112" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
