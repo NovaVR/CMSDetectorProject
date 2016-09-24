@@ -1,0 +1,6 @@
+Created by Oliver Lykken. 
+This is the VR CMS Detector Project. Currently the project only works on Oculus rift but support for the HTC Vive is coming.
+Running the program requires a version of Unity3D which can be downloaded for free here https://store.unity.com/download?ref=personal
+After setting up Unity and downloading the repository grom GitHub open the project in Unity.
+Open the scene called Oculus display and press the play button. 
+To be added as a contributor to the project email Oliver Lykken at olykken@gmail.com.
