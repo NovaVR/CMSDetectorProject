@@ -159,40 +159,77 @@ public class EventScroller : MonoBehaviour {
 		}
 	}
 	
+    public void nextOne()
+    {
+        foreach (GameObject area in eventArea)
+        {
+            area.SetActive(false);
+        }
+        Destroy(this_event);
+        if (eventNumber < events.Length - 1)
+        {
+            eventNumber++;
+        }
+        else {
+            eventNumber = 0;
+        }
+        Debug.Log("loaded event is " + events[eventNumber].name);
+        this_event = Instantiate(events[eventNumber]) as GameObject;
+        this_event.SetActive(true);
+    }
+
+    public void lastOne()
+    {
+        foreach(GameObject area in eventArea) {
+            area.SetActive(false);
+        }
+        Destroy (this_event);
+			if (eventNumber == 0) {
+            lastEvent = events.Count() - 1;
+            eventNumber = lastEvent;
+        }else {
+            eventNumber--;
+        }
+        Debug.Log ("loaded event is " + events [eventNumber].name);
+        this_event = Instantiate (events [eventNumber]) as GameObject;
+        this_event.SetActive (true);
+    }
 
 	void Update () {
 
 		// moves one event forward in the array's list
 		if (clicked()) {
-			foreach(GameObject area in eventArea) {
-				area.SetActive (false);	
-			}
-			Destroy (this_event);
-			if (eventNumber < events.Length - 1) {
-				eventNumber++;
-			} else {
-				eventNumber = 0;
-			}
-			Debug.Log ("loaded event is " + events [eventNumber].name);
-			this_event = Instantiate (events [eventNumber]) as GameObject;
-			this_event.SetActive (true);
+            nextOne();
+			//foreach(GameObject area in eventArea) {
+			//	area.SetActive (false);	
+			//}
+			//Destroy (this_event);
+			//if (eventNumber < events.Length - 1) {
+			//	eventNumber++;
+			//} else {
+			//	eventNumber = 0;
+			//}
+			//Debug.Log ("loaded event is " + events [eventNumber].name);
+			//this_event = Instantiate (events [eventNumber]) as GameObject;
+			//this_event.SetActive (true);
 		}
 
 		// moves one event back in the array's list
 		if (backClick()) {
-			foreach(GameObject area in eventArea) {
-				area.SetActive (false);	
-			}
-			Destroy (this_event);
-			if (eventNumber == 0) {
-				lastEvent = events.Count() - 1;
-				eventNumber = lastEvent;
-			}else {
-				eventNumber--;
-			}
-			Debug.Log ("loaded event is " + events [eventNumber].name);
-			this_event = Instantiate (events [eventNumber]) as GameObject;
-			this_event.SetActive (true);
+            lastOne();
+			//foreach(GameObject area in eventArea) {
+			//	area.SetActive (false);	
+			//}
+			//Destroy (this_event);
+			//if (eventNumber == 0) {
+			//	lastEvent = events.Count() - 1;
+			//	eventNumber = lastEvent;
+			//}else {
+			//	eventNumber--;
+			//}
+			//Debug.Log ("loaded event is " + events [eventNumber].name);
+			//this_event = Instantiate (events [eventNumber]) as GameObject;
+			//this_event.SetActive (true);
 		}
 
 		// removes the events and replaces them with the detector pieces
