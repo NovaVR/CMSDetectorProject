@@ -8,6 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
 using UnityEngine.UI;
+using VRTK;
 
 public class EventScroller : MonoBehaviour {
 
@@ -37,12 +38,6 @@ public class EventScroller : MonoBehaviour {
 			.Cast<GameObject> ()
 			.ToArray ();
 
-		//events = Resources.LoadAll("events", typeof(GameObject))
-			//.Cast<GameObject>()
-			//.ToArray();
-
-		//jsons = Resources.LoadAll ("JSON");
-
 		//Gets the events and the related data from the xml files
 		event_folders = Resources.LoadAll ("xml");
 		num_events = event_folders.Length;
@@ -60,7 +55,6 @@ public class EventScroller : MonoBehaviour {
 			//Creates the larger event GameObject
 			GameObject this_event = new GameObject ();
 			this_event.transform.position = new Vector3 (0, -119.9f, 0);
-			//this_event.transform.localScale = new Vector3 (0.01f, 0.01f, 0.01f); 
 			ItemContainer ic = new ItemContainer ();
 			ic = ItemContainer.Load(xml_path);
 			event_collection = Resources.LoadAll(event_path, typeof(GameObject))
@@ -70,51 +64,96 @@ public class EventScroller : MonoBehaviour {
 			//Createst the parts of the events that the data is attached to
 			foreach (GameObject sub_event in event_collection) {
 				GameObject this_sub_event = Instantiate (sub_event) as GameObject;
-				//this_sub_event.SetActive (false);
 				this_sub_event.transform.position = new Vector3 (0, -119.9f, 0);
 				this_sub_event.transform.localScale = new Vector3 (50f, 50f, 50f);
 				this_sub_event.transform.parent = this_event.transform;
-				this_sub_event.tag = "Track";
-				Mesh m = this_sub_event.GetComponentInChildren<MeshFilter> ().sharedMesh;
+				this_sub_event.tag = "Track"; // default
+                Mesh m = this_sub_event.GetComponentInChildren<MeshFilter> ().sharedMesh;
 				this_sub_event.AddComponent<MeshCollider> ();
 				this_sub_event.GetComponent<MeshCollider> ().sharedMesh = m;
-				this_sub_event.GetComponent<MeshCollider> ().convex = true;
-				this_sub_event.GetComponent<MeshCollider> ().isTrigger = true;
-				//GameObject mesh1 = this_sub_event.transform.Find ("Mesh1").gameObject;
-				//this_sub_event.GetComponent<MeshCollider> ().sharedMesh = mesh1.GetComponent<Mesh>();
-				//Debug.Log ("this_sub_event_name = " + this_sub_event.name);
+                if (m.vertexCount > 3)
+                {
+                    Debug.Log(this_sub_event.ToString());
+                    Debug.Log("Found mesh with " + m.vertexCount + " vertices and " + m.triangles.Length + "triangles");
+                    this_sub_event.GetComponent<MeshCollider>().convex = true;
+                }
+                else
+                {
+                    this_sub_event.GetComponent<MeshCollider>().convex = false;
+                }
+                this_sub_event.GetComponent<MeshCollider> ().isTrigger = true;
+                this_sub_event.AddComponent<VRTK_InteractableObject>();
+                this_sub_event.GetComponent<VRTK_InteractableObject>().highlightOnTouch = true;
+                this_sub_event.GetComponent<VRTK_InteractableObject>().touchHighlightColor = Color.green;
 
-				//Creates the canvases where the data for each sub part of the event will be attached
-				foreach(Item item in ic.items) {
+                //Creates the canvases where the data for each sub part of the event will be attached
+                foreach (Item item in ic.items) {
 					if (this_sub_event.name.Contains(item.name +"(Clone)")) {
 						GameObject infocanvas = new GameObject ("InfoCanvas");
-						infocanvas.AddComponent<Canvas> ();
+                        infocanvas.AddComponent<VRTK_InteractableObject>();
+                        infocanvas.GetComponent<VRTK_InteractableObject>().isGrabbable =true;
+                        infocanvas.GetComponent<VRTK_InteractableObject>().isDroppable = true;
+                        infocanvas.GetComponent<VRTK_InteractableObject>().grabAttachMechanic = VRTK_InteractableObject.GrabAttachType.Child_Of_Controller;
+                        infocanvas.AddComponent<Canvas> ();
 						infocanvas.AddComponent<GraphicRaycaster> ();
 						infocanvas.AddComponent<CanvasScaler> ();
 						infocanvas.tag = "InfoCanvas";
-						infocanvas.transform.position = new Vector3 (0, -119f, 0);
-						infocanvas.transform.localScale = new Vector3 (0.02f, 0.02f, 0.02f);
-						infocanvas.transform.parent = this_sub_event.transform;
-						infocanvas.SetActive (false);
-						GameObject text = new GameObject ("Text");
+                        infocanvas.transform.position = new Vector3(0, 0f, 0);
+                        infocanvas.transform.localScale = new Vector3(0.0018f, 0.0022f, 0.01f);
+                        infocanvas.transform.parent = this_sub_event.transform;
+                        this_sub_event.tag = item.title;
+                        GameObject text = new GameObject ("Text");
 						Text infotext = text.AddComponent<Text> ();
-						infotext.text = " pt = " + item.pt + "\n"
-						+ " eta = " + item.eta + "\n"
-						+ " phi = " + item.phi + "\n"
-						+ " charge = " + item.charge + "\n";
-						text.transform.localPosition = new Vector3 (0, -119f, 0.0f);
-						text.transform.localScale = new Vector3 (0.02f, 0.02f, 0.02f);
+                        switch (item.title)
+                        {
+                            case "CMS Event":
+                                infotext.text = item.title + "\n"
+                                              + " run = " + item.run + "\n"
+                                              + " event = " + item.ev + "\n"
+                                              + " ls = " + item.ls + "\n"
+                                              + " orbit = " + item.orbit + "\n"
+                                              + " time = " + item.time + "\n";
+                                break;
+                            case "HB rechit":
+                            case "HE rechit":
+                            case "EB rechit":
+                            case "EE rechit":
+                                infotext.text = item.title + "\n"
+                                              + " energy = " + item.energy + "\n"
+                                              + " eta = " + item.eta + "\n"
+                                              + " phi = " + item.phi + "\n"
+                                              + " time = " + item.time + "\n";
+                                break;
+                            case "Track":
+                            case "Global muon":
+                            case "Electron":
+                                infotext.text = item.title + "\n"
+                                              + " pt = " + item.pt + "\n"
+                                              + " eta = " + item.eta + "\n"
+                                              + " phi = " + item.phi + "\n"
+                                              + " charge = " + item.charge + "\n";
+                                break;
+                            case "PF jet":
+                                infotext.text = item.title + "\n"
+                                              + " pt = " + item.pt + "\n"
+                                              + " eta = " + item.eta + "\n"
+                                              + " phi = " + item.phi + "\n"
+                                              + " theta = " + item.theta + "\n";
+                                break;
+                            case "PF MET":
+                                infotext.text = item.title + "\n"
+                                              + " pt = " + item.pt + "\n"
+                                              + " phi = " + item.phi + "\n";
+                                break;
+                            default:
+                                break;
+                        }
+                        text.transform.localPosition = new Vector3 (0, 0f, 0.0f);
+                        text.transform.localScale = new Vector3 (.00170f, .00219f, 1f);
 						text.GetComponent<Text> ().font = Resources.GetBuiltinResource<Font> ("Arial.ttf");
-						text.GetComponent<Text>().color = Color.red;
+                        text.GetComponent<Text>().fontStyle = FontStyle.Bold;
+						text.GetComponent<Text>().color = Color.black;
 						text.transform.parent = infocanvas.transform;
-						/*GameObject image = new GameObject ("Image");
-						image.AddComponent<Image> ();
-						image.transform.localPosition = new Vector3 (0, -119f, 0.5f);
-						image.transform.localScale = new Vector3 (0.02f, 0.02f, 0.02f);
-						image.transform.parent = infocanvas.transform;
-						Material mat;
-						mat = Resources.Load ("Materials/metal pattern 32") as Material;
-						image.GetComponent<Image> ().material = mat;*/
 					}
 				}
 			}
@@ -124,13 +163,9 @@ public class EventScroller : MonoBehaviour {
 			eventNumber++;
 		}
 
-		//for (int i = 0; i < events.Length; i++) {
-			//events[i].name = i.ToString ();
-		//}
 		foreach(GameObject ev in events) {
 			Debug.Log("found event " + ev.name); 
 		}
-		//Debug.Log ("loaded event is " + events [eventNumber].name);
 		eventNumber = 0;
 	}
 
@@ -180,19 +215,23 @@ public class EventScroller : MonoBehaviour {
 
     public void lastOne()
     {
-        foreach(GameObject area in eventArea) {
+        foreach (GameObject area in eventArea)
+        {
             area.SetActive(false);
         }
-        Destroy (this_event);
-			if (eventNumber == 0) {
+        Destroy(this_event);
+        if (eventNumber == 0)
+        {
             lastEvent = events.Count() - 1;
             eventNumber = lastEvent;
-        }else {
+        }
+        else
+        {
             eventNumber--;
         }
-        Debug.Log ("loaded event is " + events [eventNumber].name);
-        this_event = Instantiate (events [eventNumber]) as GameObject;
-        this_event.SetActive (true);
+        Debug.Log("loaded event is " + events[eventNumber].name);
+        this_event = Instantiate(events[eventNumber]) as GameObject;
+        this_event.SetActive(true);
     }
 
 	void Update () {
@@ -200,37 +239,13 @@ public class EventScroller : MonoBehaviour {
 		// moves one event forward in the array's list
 		if (clicked()) {
             nextOne();
-			//foreach(GameObject area in eventArea) {
-			//	area.SetActive (false);	
-			//}
-			//Destroy (this_event);
-			//if (eventNumber < events.Length - 1) {
-			//	eventNumber++;
-			//} else {
-			//	eventNumber = 0;
-			//}
-			//Debug.Log ("loaded event is " + events [eventNumber].name);
-			//this_event = Instantiate (events [eventNumber]) as GameObject;
-			//this_event.SetActive (true);
 		}
 
 		// moves one event back in the array's list
 		if (backClick()) {
             lastOne();
-			//foreach(GameObject area in eventArea) {
-			//	area.SetActive (false);	
-			//}
-			//Destroy (this_event);
-			//if (eventNumber == 0) {
-			//	lastEvent = events.Count() - 1;
-			//	eventNumber = lastEvent;
-			//}else {
-			//	eventNumber--;
-			//}
-			//Debug.Log ("loaded event is " + events [eventNumber].name);
-			//this_event = Instantiate (events [eventNumber]) as GameObject;
-			//this_event.SetActive (true);
-		}
+
+        }
 
 		// removes the events and replaces them with the detector pieces
 		if (Unclick ()) {

@@ -19,4 +19,29 @@ public class Item {
 
 	[XmlElement("charge")]
 	public float charge;
+
+    [XmlElement("title")]
+    public string title;
+
+    [XmlElement("run")]
+    public float run;
+
+    [XmlElement("ev")]
+    public float ev;
+
+    [XmlElement("energy")]
+    public float energy;
+
+    [XmlElement("ls")]
+    public float ls;
+
+    [XmlElement("theta")]
+    public float theta;
+
+    [XmlElement("time")]
+    public string time;
+
+    [XmlElement("orbit")]
+    public float orbit;
+
 }

@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_421556567">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>421556567</ev>
+       <ls>408</ls>
+       <orbit>106857779</orbit>
+       <bx>2937</bx>
+       <time>2010-Sep-3001=>58=>23.916685GMT</time>
+       <localtime>WedSep2920=>58=>232010CDT</localtime>
+    </Item>
+    <Item name="HBrechit_0">
+       <title>HB rechit</title>
+       <energy>0.520876</energy>
+       <eta>-0.1305</eta>
+       <phi>-2.13803</phi>
+       <time>51.1256</time>
+       <detid>1107312944</detid>
+    </Item>
+    <Item name="HBrechit_1">
+       <title>HB rechit</title>
+       <energy>0.634632</energy>
+       <eta>-0.3045</eta>
+       <phi>0.0436332</phi>
+       <time>5.67336</time>
+       <detid>1107313153</detid>
+    </Item>
+    <Item name="HBrechit_2">
+       <title>HB rechit</title>
+       <energy>0.522719</energy>
+       <eta>-0.3915</eta>
+       <phi>-1.52716</phi>
+       <time>57.1057</time>
+       <detid>1107313335</detid>
+    </Item>
+    <Item name="HBrechit_3">
+       <title>HB rechit</title>
+       <energy>0.691183</energy>
+       <eta>-0.3915</eta>
+       <phi>-0.741765</phi>
+       <time>23.3364</time>
+       <detid>1107313344</detid>
+    </Item>
+    <Item name="HBrechit_4">
+       <title>HB rechit</title>
+       <energy>1.00971</energy>
+       <eta>-0.5655</eta>
+       <phi>0.0436332</phi>
+       <time>-3.98173</time>
+       <detid>1107313537</detid>
+    </Item>
+    <Item name="HBrechit_5">
+       <title>HB rechit</title>
+       <energy>0.6236</energy>
+       <eta>-0.8265</eta>
+       <phi>-2.13803</phi>
+       <time>59.5386</time>
+       <detid>1107313968</detid>
+    </Item>
+    <Item name="HBrechit_6">
+       <title>HB rechit</title>
+       <energy>0.50182</energy>
+       <eta>-0.9135</eta>
+       <phi>1.87623</phi>
+       <time>56.247</time>
+       <detid>1107314070</detid>
+    </Item>
+    <Item name="HBrechit_7">
+       <title>HB rechit</title>
+       <energy>0.629277</energy>
+       <eta>-1.0005</eta>
+       <phi>-1.4399</phi>
+       <time>26.8651</time>
+       <detid>1107314232</detid>
+    </Item>
+    <Item name="HBrechit_8">
+       <title>HB rechit</title>
+       <energy>0.500407</energy>
+       <eta>-1.1745</eta>
+       <phi>1.1781</phi>
+       <time>55.0032</time>
+       <detid>1107314446</detid>
+    </Item>
+    <Item name="HBrechit_9">
+       <title>HB rechit</title>
+       <energy>0.539145</energy>
+       <eta>-1.1745</eta>
+       <phi>-2.66163</phi>
+       <time>-0.513446</time>
+       <detid>1107314474</detid>
+    </Item>
+    <Item name="HBrechit_10">
+       <title>HB rechit</title>
+       <energy>0.65418</energy>
+       <eta>-1.1745</eta>
+       <phi>-1.26536</phi>
+       <time>13.9383</time>
+       <detid>1107314490</detid>
+    </Item>
+    <Item name="HBrechit_11">
+       <title>HB rechit</title>
+       <energy>0.673791</energy>
+       <eta>0.0434999</eta>
+       <phi>-0.392699</phi>
+       <time>59.3968</time>
+       <detid>1107321028</detid>
+    </Item>
+    <Item name="HBrechit_12">
+       <title>HB rechit</title>
+       <energy>0.52456</energy>
+       <eta>0.1305</eta>
+       <phi>1.26536</phi>
+       <time>46.6753</time>
+       <detid>1107321103</detid>
+    </Item>
+    <Item name="HBrechit_13">
+       <title>HB rechit</title>
+       <energy>0.523437</energy>
+       <eta>0.1305</eta>
+       <phi>2.05076</phi>
+       <time>-12.801</time>
+       <detid>1107321112</detid>
+    </Item>
+    <Item name="HBrechit_14">
+       <title>HB rechit</title>
+       <energy>0.5815</energy>
+       <eta>0.1305</eta>
+       <phi>3.01069</phi>
+       <time>57.2195</time>
+       <detid>1107321123</detid>
+    </Item>
+    <Item name="HBrechit_15">
+       <title>HB rechit</title>
+       <energy>0.60542</energy>
+       <eta>0.2175</eta>
+       <phi>0.567232</phi>
+       <time>54.8207</time>
+       <detid>1107321223</detid>
+    </Item>
+    <Item name="HBrechit_16">
+       <title>HB rechit</title>
+       <energy>0.681258</energy>
+       <eta>0.3045</eta>
+       <phi>0.305433</phi>
+       <time>56.3604</time>
+       <detid>1107321348</detid>
+    </Item>
+    <Item name="HBrechit_17">
+       <title>HB rechit</title>
+       <energy>0.838877</energy>
+       <eta>0.3045</eta>
+       <phi>-1.1781</phi>
+       <time>59.0384</time>
+       <detid>1107321403</detid>
+    </Item>
+    <Item name="HBrechit_18">
+       <title>HB rechit</title>
+       <energy>0.586954</energy>
+       <eta>0.3915</eta>
+       <phi>1.4399</phi>
+       <time>18.2574</time>
+       <detid>1107321489</detid>
+    </Item>
+    <Item name="HBrechit_19">
+       <title>HB rechit</title>
+       <energy>0.59419</energy>
+       <eta>0.3915</eta>
+       <phi>2.57436</phi>
+       <time>-4.33516</time>
+       <detid>1107321502</detid>
+    </Item>
+    <Item name="HBrechit_20">
+       <title>HB rechit</title>
+       <energy>0.581384</energy>
+       <eta>0.3915</eta>
+       <phi>2.92343</phi>
+       <time>54.1101</time>
+       <detid>1107321506</detid>
+    </Item>
+    <Item name="HBrechit_21">
+       <title>HB rechit</title>
+       <energy>0.595767</energy>
+       <eta>0.6525</eta>
+       <phi>2.66163</phi>
+       <time>7.24393</time>
+       <detid>1107321887</detid>
+    </Item>
+    <Item name="HBrechit_22">
+       <title>HB rechit</title>
+       <energy>0.643773</energy>
+       <eta>0.7395</eta>
+       <phi>1.4399</phi>
+       <time>53.5811</time>
+       <detid>1107322001</detid>
+    </Item>
+    <Item name="HBrechit_23">
+       <title>HB rechit</title>
+       <energy>0.542498</energy>
+       <eta>0.8265</eta>
+       <phi>2.66163</phi>
+       <time>52.7334</time>
+       <detid>1107322143</detid>
+    </Item>
+    <Item name="HBrechit_24">
+       <title>HB rechit</title>
+       <energy>1.86059</energy>
+       <eta>0.8265</eta>
+       <phi>-0.305433</phi>
+       <time>-4.95254</time>
+       <detid>1107322181</detid>
+    </Item>
+    <Item name="HBrechit_25">
+       <title>HB rechit</title>
+       <energy>0.517571</energy>
+       <eta>1.0005</eta>
+       <phi>1.7017</phi>
+       <time>8.63818</time>
+       <detid>1107322388</detid>
+    </Item>
+    <Item name="HBrechit_26">
+       <title>HB rechit</title>
+       <energy>1.31528</energy>
+       <eta>1.0875</eta>
+       <phi>1.87623</phi>
+       <time>4.93903</time>
+       <detid>1107322518</detid>
+    </Item>
+    <Item name="HBrechit_27">
+       <title>HB rechit</title>
+       <energy>0.506108</energy>
+       <eta>1.0875</eta>
+       <phi>-2.31256</phi>
+       <time>3.73453</time>
+       <detid>1107322542</detid>
+    </Item>
+    <Item name="HBrechit_28">
+       <title>HB rechit</title>
+       <energy>0.785611</energy>
+       <eta>1.0875</eta>
+       <phi>-0.741765</phi>
+       <time>5.45449</time>
+       <detid>1107322560</detid>
+    </Item>
+    <Item name="HErechit_0">
+       <title>HE rechit</title>
+       <energy>0.663927</energy>
+       <eta>-1.4355</eta>
+       <phi>-1.4399</phi>
+       <time>2.29906</time>
+       <detid>1140869304</detid>
+    </Item>
+    <Item name="HErechit_1">
+       <title>HE rechit</title>
+       <energy>1.14214</energy>
+       <eta>-1.5225</eta>
+       <phi>1.78896</phi>
+       <time>-4.20774</time>
+       <detid>1140869397</detid>
+    </Item>
+    <Item name="HErechit_2">
+       <title>HE rechit</title>
+       <energy>5.8112</energy>
+       <eta>-1.5225</eta>
+       <phi>1.87623</phi>
+       <time>-0.952907</time>
+       <detid>1140869398</detid>
+    </Item>
+    <Item name="HErechit_3">
+       <title>HE rechit</title>
+       <energy>1.38474</energy>
+       <eta>-1.5225</eta>
+       <phi>1.9635</phi>
+       <time>-1.02384</time>
+       <detid>1140869399</detid>
+    </Item>
+    <Item name="HErechit_4">
+       <title>HE rechit</title>
+       <energy>0.973384</energy>
+       <eta>-1.6095</eta>
+       <phi>1.52716</phi>
+       <time>5.73414</time>
+       <detid>1140869522</detid>
+    </Item>
+    <Item name="HErechit_5">
+       <title>HE rechit</title>
+       <energy>1.28578</energy>
+       <eta>-1.6095</eta>
+       <phi>2.05076</phi>
+       <time>-1.51495</time>
+       <detid>1140869528</detid>
+    </Item>
+    <Item name="HErechit_6">
+       <title>HE rechit</title>
+       <energy>0.717458</energy>
+       <eta>-1.6095</eta>
+       <phi>3.09796</phi>
+       <time>5.14046</time>
+       <detid>1140869540</detid>
+    </Item>
+    <Item name="HErechit_7">
+       <title>HE rechit</title>
+       <energy>0.553866</energy>
+       <eta>-1.6095</eta>
+       <phi>-1.78896</phi>
+       <time>2.82252</time>
+       <detid>1140869556</detid>
+    </Item>
+    <Item name="HErechit_8">
+       <title>HE rechit</title>
+       <energy>0.648906</energy>
+       <eta>-1.6095</eta>
+       <phi>-0.392699</phi>
+       <time>55.7455</time>
+       <detid>1140869572</detid>
+    </Item>
+    <Item name="HErechit_9">
+       <title>HE rechit</title>
+       <energy>0.873881</energy>
+       <eta>-1.6965</eta>
+       <phi>-3.09796</phi>
+       <time>-4.51993</time>
+       <detid>1140869669</detid>
+    </Item>
+    <Item name="HErechit_10">
+       <title>HE rechit</title>
+       <energy>0.55259</energy>
+       <eta>-1.88</eta>
+       <phi>1.48353</phi>
+       <time>55.392</time>
+       <detid>1140869905</detid>
+    </Item>
+    <Item name="HErechit_11">
+       <title>HE rechit</title>
+       <energy>1.06549</energy>
+       <eta>-1.88</eta>
+       <phi>-0.436332</phi>
+       <time>52.453</time>
+       <detid>1140869955</detid>
+    </Item>
+    <Item name="HErechit_12">
+       <title>HE rechit</title>
+       <energy>1.41994</energy>
+       <eta>-1.9865</eta>
+       <phi>1.48353</phi>
+       <time>-0.260435</time>
+       <detid>1140870033</detid>
+    </Item>
+    <Item name="HErechit_13">
+       <title>HE rechit</title>
+       <energy>0.672458</energy>
+       <eta>-1.9865</eta>
+       <phi>2.70526</phi>
+       <time>12.6481</time>
+       <detid>1140870047</detid>
+    </Item>
+    <Item name="HErechit_14">
+       <title>HE rechit</title>
+       <energy>2.32511</energy>
+       <eta>-2.1075</eta>
+       <phi>1.13446</phi>
+       <time>-9.37772</time>
+       <detid>1140870157</detid>
+    </Item>
+    <Item name="HErechit_15">
+       <title>HE rechit</title>
+       <energy>0.591902</energy>
+       <eta>-2.247</eta>
+       <phi>-2.70526</phi>
+       <time>8.59844</time>
+       <detid>1140870313</detid>
+    </Item>
+    <Item name="HErechit_16">
+       <title>HE rechit</title>
+       <energy>1.736</energy>
+       <eta>-2.411</eta>
+       <phi>1.309</phi>
+       <time>8.82972</time>
+       <detid>1140870415</detid>
+    </Item>
+    <Item name="HErechit_17">
+       <title>HE rechit</title>
+       <energy>0.996785</energy>
+       <eta>-2.411</eta>
+       <phi>2.00713</phi>
+       <time>5.2421</time>
+       <detid>1140870423</detid>
+    </Item>
+    <Item name="HErechit_18">
+       <title>HE rechit</title>
+       <energy>1.19316</energy>
+       <eta>-2.411</eta>
+       <phi>2.18166</phi>
+       <time>4.76173</time>
+       <detid>1140870425</detid>
+    </Item>
+    <Item name="HErechit_19">
+       <title>HE rechit</title>
+       <energy>1.36827</energy>
+       <eta>-2.759</eta>
+       <phi>0.959931</phi>
+       <time>0.0731974</time>
+       <detid>1140870667</detid>
+    </Item>
+    <Item name="HErechit_20">
+       <title>HE rechit</title>
+       <energy>1.81928</energy>
+       <eta>-2.759</eta>
+       <phi>1.65806</phi>
+       <time>-10.7944</time>
+       <detid>1140870675</detid>
+    </Item>
+    <Item name="HErechit_21">
+       <title>HE rechit</title>
+       <energy>0.84085</energy>
+       <eta>-2.759</eta>
+       <phi>1.8326</phi>
+       <time>-23.6628</time>
+       <detid>1140870677</detid>
+    </Item>
+    <Item name="HErechit_22">
+       <title>HE rechit</title>
+       <energy>0.855935</energy>
+       <eta>-2.759</eta>
+       <phi>2.00713</phi>
+       <time>-13.2727</time>
+       <detid>1140870679</detid>
+    </Item>
+    <Item name="HErechit_23">
+       <title>HE rechit</title>
+       <energy>0.649913</energy>
+       <eta>-2.934</eta>
+       <phi>0.436332</phi>
+       <time>69.1966</time>
+       <detid>1140870789</detid>
+    </Item>
+    <Item name="HErechit_24">
+       <title>HE rechit</title>
+       <energy>0.850948</energy>
+       <eta>-2.934</eta>
+       <phi>-0.959931</phi>
+       <time>-3.22351</time>
+       <detid>1140870845</detid>
+    </Item>
+    <Item name="HErechit_25">
+       <title>HE rechit</title>
+       <energy>0.704803</energy>
+       <eta>1.88</eta>
+       <phi>0.0872665</phi>
+       <time>53.4126</time>
+       <detid>1140878081</detid>
+    </Item>
+    <Item name="HErechit_26">
+       <title>HE rechit</title>
+       <energy>0.62304</energy>
+       <eta>1.88</eta>
+       <phi>1.8326</phi>
+       <time>21.95</time>
+       <detid>1140878101</detid>
+    </Item>
+    <Item name="HErechit_27">
+       <title>HE rechit</title>
+       <energy>0.662586</energy>
+       <eta>1.88</eta>
+       <phi>-2.53073</phi>
+       <time>-14.84</time>
+       <detid>1140878123</detid>
+    </Item>
+    <Item name="HErechit_28">
+       <title>HE rechit</title>
+       <energy>0.580898</energy>
+       <eta>1.88</eta>
+       <phi>-2.35619</phi>
+       <time>2.75212</time>
+       <detid>1140878125</detid>
+    </Item>
+    <Item name="HErechit_29">
+       <title>HE rechit</title>
+       <energy>5.1113</energy>
+       <eta>1.9865</eta>
+       <phi>0.610865</phi>
+       <time>2.53823</time>
+       <detid>1140878215</detid>
+    </Item>
+    <Item name="HErechit_30">
+       <title>HE rechit</title>
+       <energy>1.88186</energy>
+       <eta>1.9865</eta>
+       <phi>3.05433</phi>
+       <time>3.8405</time>
+       <detid>1140878243</detid>
+    </Item>
+    <Item name="HErechit_31">
+       <title>HE rechit</title>
+       <energy>1.02534</energy>
+       <eta>2.1075</eta>
+       <phi>0.261799</phi>
+       <time>67.2308</time>
+       <detid>1140878339</detid>
+    </Item>
+    <Item name="HErechit_32">
+       <title>HE rechit</title>
+       <energy>1.2014</energy>
+       <eta>2.247</eta>
+       <phi>0.261799</phi>
+       <time>-3.09176</time>
+       <detid>1140878467</detid>
+    </Item>
+    <Item name="HErechit_33">
+       <title>HE rechit</title>
+       <energy>1.01596</energy>
+       <eta>2.411</eta>
+       <phi>0.261799</phi>
+       <time>-3.26127</time>
+       <detid>1140878595</detid>
+    </Item>
+    <Item name="HErechit_34">
+       <title>HE rechit</title>
+       <energy>1.29917</energy>
+       <eta>2.411</eta>
+       <phi>0.610865</phi>
+       <time>-14.9553</time>
+       <detid>1140878599</detid>
+    </Item>
+    <Item name="HErechit_35">
+       <title>HE rechit</title>
+       <energy>0.505558</energy>
+       <eta>2.411</eta>
+       <phi>1.309</phi>
+       <time>55.1098</time>
+       <detid>1140878607</detid>
+    </Item>
+    <Item name="HErechit_36">
+       <title>HE rechit</title>
+       <energy>1.0628</energy>
+       <eta>2.575</eta>
+       <phi>0.261799</phi>
+       <time>30.533</time>
+       <detid>1140878723</detid>
+    </Item>
+    <Item name="HErechit_37">
+       <title>HE rechit</title>
+       <energy>2.13952</energy>
+       <eta>2.759</eta>
+       <phi>0.785398</phi>
+       <time>-4.363</time>
+       <detid>1140878857</detid>
+    </Item>
+    <Item name="HErechit_38">
+       <title>HE rechit</title>
+       <energy>0.523984</energy>
+       <eta>2.759</eta>
+       <phi>1.13446</phi>
+       <time>6.69498</time>
+       <detid>1140878861</detid>
+    </Item>
+    <Item name="HErechit_39">
+       <title>HE rechit</title>
+       <energy>0.568969</energy>
+       <eta>2.759</eta>
+       <phi>-2.87979</phi>
+       <time>3.41545</time>
+       <detid>1140878887</detid>
+    </Item>
+    <Item name="HErechit_40">
+       <title>HE rechit</title>
+       <energy>0.928662</energy>
+       <eta>2.759</eta>
+       <phi>-2.53073</phi>
+       <time>5.27534</time>
+       <detid>1140878891</detid>
+    </Item>
+    <Item name="HErechit_41">
+       <title>HE rechit</title>
+       <energy>0.997134</energy>
+       <eta>2.759</eta>
+       <phi>-0.785398</phi>
+       <time>38.7456</time>
+       <detid>1140878911</detid>
+    </Item>
+    <Item name="HErechit_42">
+       <title>HE rechit</title>
+       <energy>9.09253</energy>
+       <eta>2.934</eta>
+       <phi>0.959931</phi>
+       <time>1.38414</time>
+       <detid>1140878987</detid>
+    </Item>
+    <Item name="HErechit_43">
+       <title>HE rechit</title>
+       <energy>6.53527</energy>
+       <eta>2.934</eta>
+       <phi>-1.48353</phi>
+       <time>3.91225</time>
+       <detid>1140879031</detid>
+    </Item>
+    <Item name="HErechit_44">
+       <title>HE rechit</title>
+       <energy>0.584801</energy>
+       <eta>-1.5225</eta>
+       <phi>0.1309</phi>
+       <time>8.81423</time>
+       <detid>1140885762</detid>
+    </Item>
+    <Item name="HErechit_45">
+       <title>HE rechit</title>
+       <energy>0.703813</energy>
+       <eta>-1.5225</eta>
+       <phi>-2.66163</phi>
+       <time>55.9988</time>
+       <detid>1140885802</detid>
+    </Item>
+    <Item name="HErechit_46">
+       <title>HE rechit</title>
+       <energy>0.585423</energy>
+       <eta>-1.6095</eta>
+       <phi>1.78896</phi>
+       <time>-13.2661</time>
+       <detid>1140885909</detid>
+    </Item>
+    <Item name="HErechit_47">
+       <title>HE rechit</title>
+       <energy>0.703771</energy>
+       <eta>-1.6965</eta>
+       <phi>-3.01069</phi>
+       <time>-4.96766</time>
+       <detid>1140886054</detid>
+    </Item>
+    <Item name="HErechit_48">
+       <title>HE rechit</title>
+       <energy>1.2649</energy>
+       <eta>-1.6965</eta>
+       <phi>-2.92343</phi>
+       <time>-2.4589</time>
+       <detid>1140886055</detid>
+    </Item>
+    <Item name="HErechit_49">
+       <title>HE rechit</title>
+       <energy>0.630753</energy>
+       <eta>-2.1075</eta>
+       <phi>-1.13446</phi>
+       <time>43.6681</time>
+       <detid>1140886587</detid>
+    </Item>
+    <Item name="HErechit_50">
+       <title>HE rechit</title>
+       <energy>1.47913</energy>
+       <eta>-2.575</eta>
+       <phi>1.8326</phi>
+       <time>-7.50841</time>
+       <detid>1140886933</detid>
+    </Item>
+    <Item name="HErechit_51">
+       <title>HE rechit</title>
+       <energy>5.4916</energy>
+       <eta>-2.759</eta>
+       <phi>1.8326</phi>
+       <time>3.18632</time>
+       <detid>1140887061</detid>
+    </Item>
+    <Item name="HErechit_52">
+       <title>HE rechit</title>
+       <energy>2.38038</energy>
+       <eta>-2.759</eta>
+       <phi>2.00713</phi>
+       <time>6.45819</time>
+       <detid>1140887063</detid>
+    </Item>
+    <Item name="HErechit_53">
+       <title>HE rechit</title>
+       <energy>0.842889</energy>
+       <eta>-2.759</eta>
+       <phi>2.18166</phi>
+       <time>-9.37521</time>
+       <detid>1140887065</detid>
+    </Item>
+    <Item name="HErechit_54">
+       <title>HE rechit</title>
+       <energy>4.34837</energy>
+       <eta>-2.934</eta>
+       <phi>2.00713</phi>
+       <time>0.174162</time>
+       <detid>1140887191</detid>
+    </Item>
+    <Item name="HErechit_55">
+       <title>HE rechit</title>
+       <energy>0.606028</energy>
+       <eta>1.5225</eta>
+       <phi>-2.13803</phi>
+       <time>54.2831</time>
+       <detid>1140894000</detid>
+    </Item>
+    <Item name="HErechit_56">
+       <title>HE rechit</title>
+       <energy>0.614126</energy>
+       <eta>1.785</eta>
+       <phi>2.70526</phi>
+       <time>54.1104</time>
+       <detid>1140894367</detid>
+    </Item>
+    <Item name="HErechit_57">
+       <title>HE rechit</title>
+       <energy>0.715114</energy>
+       <eta>1.88</eta>
+       <phi>1.48353</phi>
+       <time>21.2215</time>
+       <detid>1140894481</detid>
+    </Item>
+    <Item name="HErechit_58">
+       <title>HE rechit</title>
+       <energy>0.594593</energy>
+       <eta>2.1075</eta>
+       <phi>2.70526</phi>
+       <time>5.73138</time>
+       <detid>1140894751</detid>
+    </Item>
+    <Item name="HErechit_59">
+       <title>HE rechit</title>
+       <energy>0.65445</energy>
+       <eta>2.411</eta>
+       <phi>-1.48353</phi>
+       <time>-4.25982</time>
+       <detid>1140895031</detid>
+    </Item>
+    <Item name="HErechit_60">
+       <title>HE rechit</title>
+       <energy>0.530356</energy>
+       <eta>2.575</eta>
+       <phi>1.13446</phi>
+       <time>30.6221</time>
+       <detid>1140895117</detid>
+    </Item>
+    <Item name="HErechit_61">
+       <title>HE rechit</title>
+       <energy>1.35933</energy>
+       <eta>2.759</eta>
+       <phi>0.610865</phi>
+       <time>-6.01505</time>
+       <detid>1140895239</detid>
+    </Item>
+    <Item name="HErechit_62">
+       <title>HE rechit</title>
+       <energy>0.540083</energy>
+       <eta>2.759</eta>
+       <phi>1.48353</phi>
+       <time>31.2714</time>
+       <detid>1140895249</detid>
+    </Item>
+    <Item name="HErechit_63">
+       <title>HE rechit</title>
+       <energy>0.656983</energy>
+       <eta>2.934</eta>
+       <phi>2.00713</phi>
+       <time>30.1147</time>
+       <detid>1140895383</detid>
+    </Item>
+    <Item name="HErechit_64">
+       <title>HE rechit</title>
+       <energy>0.620077</energy>
+       <eta>2.934</eta>
+       <phi>-0.261799</phi>
+       <time>23.7094</time>
+       <detid>1140895429</detid>
+    </Item>
+    <Item name="HErechit_65">
+       <title>HE rechit</title>
+       <energy>4.75507</energy>
+       <eta>-2.575</eta>
+       <phi>1.8326</phi>
+       <time>-0.654193</time>
+       <detid>1140903317</detid>
+    </Item>
+    <Item name="HErechit_66">
+       <title>HE rechit</title>
+       <energy>1.07895</energy>
+       <eta>-2.575</eta>
+       <phi>2.00713</phi>
+       <time>0.126089</time>
+       <detid>1140903319</detid>
+    </Item>
+    <Item name="HErechit_67">
+       <title>HE rechit</title>
+       <energy>0.716994</energy>
+       <eta>-2.575</eta>
+       <phi>-0.0872665</phi>
+       <time>6.92108</time>
+       <detid>1140903367</detid>
+    </Item>
+    <Item name="HErechit_68">
+       <title>HE rechit</title>
+       <energy>2.93372</energy>
+       <eta>-2.825</eta>
+       <phi>1.65806</phi>
+       <time>0.0088501</time>
+       <detid>1140903443</detid>
+    </Item>
+    <Item name="HErechit_69">
+       <title>HE rechit</title>
+       <energy>5.35058</energy>
+       <eta>-2.825</eta>
+       <phi>1.8326</phi>
+       <time>-4.40611</time>
+       <detid>1140903445</detid>
+    </Item>
+    <Item name="HErechit_70">
+       <title>HE rechit</title>
+       <energy>1.9444</energy>
+       <eta>-2.825</eta>
+       <phi>2.00713</phi>
+       <time>0.17738</time>
+       <detid>1140903447</detid>
+    </Item>
+    <Item name="HErechit_71">
+       <title>HE rechit</title>
+       <energy>0.8248</energy>
+       <eta>-2.825</eta>
+       <phi>2.87979</phi>
+       <time>2.18248</time>
+       <detid>1140903457</detid>
+    </Item>
+    <Item name="HErechit_72">
+       <title>HE rechit</title>
+       <energy>0.506049</energy>
+       <eta>-2.825</eta>
+       <phi>-1.65806</phi>
+       <time>32.5746</time>
+       <detid>1140903477</detid>
+    </Item>
+    <Item name="HErechit_73">
+       <title>HE rechit</title>
+       <energy>0.606957</energy>
+       <eta>-2.825</eta>
+       <phi>-0.261799</phi>
+       <time>24.8485</time>
+       <detid>1140903493</detid>
+    </Item>
+    <Item name="HErechit_74">
+       <title>HE rechit</title>
+       <energy>0.563046</energy>
+       <eta>1.3485</eta>
+       <phi>1.87623</phi>
+       <time>1.3177</time>
+       <detid>1140910102</detid>
+    </Item>
+    <Item name="HErechit_75">
+       <title>HE rechit</title>
+       <energy>0.50273</energy>
+       <eta>2.825</eta>
+       <phi>0.261799</phi>
+       <time>28.0102</time>
+       <detid>1140911619</detid>
+    </Item>
+    <Item name="HErechit_76">
+       <title>HE rechit</title>
+       <energy>1.2743</energy>
+       <eta>2.825</eta>
+       <phi>0.436332</phi>
+       <time>-11.625</time>
+       <detid>1140911621</detid>
+    </Item>
+    <Item name="HErechit_77">
+       <title>HE rechit</title>
+       <energy>1.43967</energy>
+       <eta>2.825</eta>
+       <phi>0.785398</phi>
+       <time>3.33465</time>
+       <detid>1140911625</detid>
+    </Item>
+    <Item name="HErechit_78">
+       <title>HE rechit</title>
+       <energy>0.88085</energy>
+       <eta>2.825</eta>
+       <phi>1.13446</phi>
+       <time>-13.5182</time>
+       <detid>1140911629</detid>
+    </Item>
+    <Item name="HErechit_79">
+       <title>HE rechit</title>
+       <energy>1.4671</energy>
+       <eta>2.825</eta>
+       <phi>-2.18166</phi>
+       <time>60.967</time>
+       <detid>1140911663</detid>
+    </Item>
+    <Item name="HErechit_80">
+       <title>HE rechit</title>
+       <energy>3.16285</energy>
+       <eta>2.825</eta>
+       <phi>-0.785398</phi>
+       <time>-1.49617</time>
+       <detid>1140911679</detid>
+    </Item>
+    <Item name="EBrechit_0">
+       <title>EB rechit</title>
+       <energy>0.267658</energy>
+       <eta>-0.781042</eta>
+       <phi>-1.02191</phi>
+       <time>5.89555</time>
+       <detid>838884152</detid>
+    </Item>
+    <Item name="EBrechit_1">
+       <title>EB rechit</title>
+       <energy>0.290761</energy>
+       <eta>-0.991938</eta>
+       <phi>2.64519</phi>
+       <time>-11.2449</time>
+       <detid>838890146</detid>
+    </Item>
+    <Item name="EBrechit_2">
+       <title>EB rechit</title>
+       <energy>0.296729</energy>
+       <eta>-1.37397</eta>
+       <phi>1.52498</phi>
+       <time>4.06415</time>
+       <detid>838901346</detid>
+    </Item>
+    <Item name="EBrechit_3">
+       <title>EB rechit</title>
+       <energy>0.735629</energy>
+       <eta>-1.45958</eta>
+       <phi>1.805</phi>
+       <time>-0.611536</time>
+       <detid>838903922</detid>
+    </Item>
+    <Item name="EBrechit_4">
+       <title>EB rechit</title>
+       <energy>0.326327</energy>
+       <eta>-1.47751</eta>
+       <phi>1.85685</phi>
+       <time>4.4978</time>
+       <detid>838904437</detid>
+    </Item>
+    <Item name="EBrechit_5">
+       <title>EB rechit</title>
+       <energy>0.290271</energy>
+       <eta>0.242434</eta>
+       <phi>-1.45648</phi>
+       <time>-6.27603</time>
+       <detid>838933791</detid>
+    </Item>
+    <Item name="EBrechit_6">
+       <title>EB rechit</title>
+       <energy>0.405516</energy>
+       <eta>0.415983</eta>
+       <phi>-1.21089</phi>
+       <time>0.285187</time>
+       <detid>838938925</detid>
+    </Item>
+    <Item name="EBrechit_7">
+       <title>EB rechit</title>
+       <energy>10.6691</energy>
+       <eta>0.416317</eta>
+       <phi>-1.19372</phi>
+       <time>-0.889982</time>
+       <detid>838938926</detid>
+    </Item>
+    <Item name="EBrechit_8">
+       <title>EB rechit</title>
+       <energy>0.567245</energy>
+       <eta>0.415959</eta>
+       <phi>-1.17637</phi>
+       <time>0.797618</time>
+       <detid>838938927</detid>
+    </Item>
+    <Item name="EBrechit_9">
+       <title>EB rechit</title>
+       <energy>0.472217</energy>
+       <eta>0.41628</eta>
+       <phi>-1.12469</phi>
+       <time>-0.871074</time>
+       <detid>838938930</detid>
+    </Item>
+    <Item name="EBrechit_10">
+       <title>EB rechit</title>
+       <energy>8.31204</energy>
+       <eta>0.415928</eta>
+       <phi>-1.10734</phi>
+       <time>-0.350311</time>
+       <detid>838938931</detid>
+    </Item>
+    <Item name="EBrechit_11">
+       <title>EB rechit</title>
+       <energy>1.04788</energy>
+       <eta>0.41627</eta>
+       <phi>-1.09018</phi>
+       <time>-4.56144</time>
+       <detid>838938932</detid>
+    </Item>
+    <Item name="EBrechit_12">
+       <title>EB rechit</title>
+       <energy>0.702883</energy>
+       <eta>0.433667</eta>
+       <phi>-1.19371</phi>
+       <time>2.03167</time>
+       <detid>838939438</detid>
+    </Item>
+    <Item name="EBrechit_13">
+       <title>EB rechit</title>
+       <energy>0.696036</energy>
+       <eta>0.433264</eta>
+       <phi>-1.10733</phi>
+       <time>1.52252</time>
+       <detid>838939443</detid>
+    </Item>
+    <Item name="EBrechit_14">
+       <title>EB rechit</title>
+       <energy>2.76763</energy>
+       <eta>0.433618</eta>
+       <phi>-1.09017</phi>
+       <time>0.162743</time>
+       <detid>838939444</detid>
+    </Item>
+    <Item name="EBrechit_15">
+       <title>EB rechit</title>
+       <energy>0.842035</energy>
+       <eta>0.433257</eta>
+       <phi>-1.07282</phi>
+       <time>0.167466</time>
+       <detid>838939445</detid>
+    </Item>
+    <Item name="EBrechit_16">
+       <title>EB rechit</title>
+       <energy>0.588669</energy>
+       <eta>0.455656</eta>
+       <phi>-1.09016</phi>
+       <time>2.47524</time>
+       <detid>838939956</detid>
+    </Item>
+    <Item name="EBrechit_17">
+       <title>EB rechit</title>
+       <energy>0.34493</energy>
+       <eta>0.455278</eta>
+       <phi>-1.07282</phi>
+       <time>4.27937</time>
+       <detid>838939957</detid>
+    </Item>
+    <Item name="EBrechit_18">
+       <title>EB rechit</title>
+       <energy>0.728104</energy>
+       <eta>0.764524</eta>
+       <phi>-1.12457</phi>
+       <time>-6.05069</time>
+       <detid>838949170</detid>
+    </Item>
+    <Item name="EBrechit_19">
+       <title>EB rechit</title>
+       <energy>4.15676</energy>
+       <eta>0.854921</eta>
+       <phi>-0.512624</phi>
+       <time>0.464772</time>
+       <detid>838951765</detid>
+    </Item>
+    <Item name="EBrechit_20">
+       <title>EB rechit</title>
+       <energy>0.3093</energy>
+       <eta>0.855507</eta>
+       <phi>-0.495446</phi>
+       <time>3.90053</time>
+       <detid>838951766</detid>
+    </Item>
+    <Item name="EBrechit_21">
+       <title>EB rechit</title>
+       <energy>0.526295</energy>
+       <eta>0.889824</eta>
+       <phi>-0.495434</phi>
+       <time>2.25811</time>
+       <detid>838952790</detid>
+    </Item>
+    <Item name="EBrechit_22">
+       <title>EB rechit</title>
+       <energy>0.486573</energy>
+       <eta>0.889179</eta>
+       <phi>-0.478099</phi>
+       <time>3.14183</time>
+       <detid>838952791</detid>
+    </Item>
+    <Item name="EBrechit_23">
+       <title>EB rechit</title>
+       <energy>0.804777</energy>
+       <eta>0.889785</eta>
+       <phi>-0.460917</phi>
+       <time>-1.70546</time>
+       <detid>838952792</detid>
+    </Item>
+    <Item name="EBrechit_24">
+       <title>EB rechit</title>
+       <energy>0.259587</energy>
+       <eta>1.00898</eta>
+       <phi>-0.059972</phi>
+       <time>5.65322</time>
+       <detid>838956039</detid>
+    </Item>
+    <Item name="EBrechit_25">
+       <title>EB rechit</title>
+       <energy>0.274302</energy>
+       <eta>1.06033</eta>
+       <phi>-0.270968</phi>
+       <time>-8.49277</time>
+       <detid>838957923</detid>
+    </Item>
+    <Item name="EErechit_0">
+       <title>EE rechit</title>
+       <energy>0.518029</energy>
+       <eta>-1.66431</eta>
+       <phi>2.86943</phi>
+       <time>-4.7388</time>
+       <detid>872416574</detid>
+    </Item>
+    <Item name="EErechit_1">
+       <title>EE rechit</title>
+       <energy>0.544333</energy>
+       <eta>-1.81104</eta>
+       <phi>-2.84732</phi>
+       <time>-17.8245</time>
+       <detid>872417320</detid>
+    </Item>
+    <Item name="EErechit_2">
+       <title>EE rechit</title>
+       <energy>0.509726</energy>
+       <eta>-2.0203</eta>
+       <phi>2.45595</phi>
+       <time>6.95172</time>
+       <detid>872418885</detid>
+    </Item>
+    <Item name="EErechit_3">
+       <title>EE rechit</title>
+       <energy>0.526977</energy>
+       <eta>-2.30694</eta>
+       <phi>-3.02678</phi>
+       <time>-2.38463</time>
+       <detid>872418992</detid>
+    </Item>
+    <Item name="EErechit_4">
+       <title>EE rechit</title>
+       <energy>0.791123</energy>
+       <eta>-2.33747</eta>
+       <phi>-2.92881</phi>
+       <time>17.4262</time>
+       <detid>872419118</detid>
+    </Item>
+    <Item name="EErechit_5">
+       <title>EE rechit</title>
+       <energy>1.19177</energy>
+       <eta>-1.58097</eta>
+       <phi>2.02902</phi>
+       <time>-0.719722</time>
+       <detid>872419164</detid>
+    </Item>
+    <Item name="EErechit_6">
+       <title>EE rechit</title>
+       <energy>0.841762</energy>
+       <eta>-1.5626</eta>
+       <phi>2.01959</phi>
+       <time>-4.34371</time>
+       <detid>872419165</detid>
+    </Item>
+    <Item name="EErechit_7">
+       <title>EE rechit</title>
+       <energy>0.513498</energy>
+       <eta>-2.34362</eta>
+       <phi>2.77507</phi>
+       <time>-2.27411</time>
+       <detid>872419258</detid>
+    </Item>
+    <Item name="EErechit_8">
+       <title>EE rechit</title>
+       <energy>1.24126</energy>
+       <eta>-1.56758</eta>
+       <phi>1.9975</phi>
+       <time>4.66304</time>
+       <detid>872419293</detid>
+    </Item>
+    <Item name="EErechit_9">
+       <title>EE rechit</title>
+       <energy>0.557376</energy>
+       <eta>-2.45362</eta>
+       <phi>3.00782</phi>
+       <time>24.116</time>
+       <detid>872419381</detid>
+    </Item>
+    <Item name="EErechit_10">
+       <title>EE rechit</title>
+       <energy>0.620192</energy>
+       <eta>-1.61477</eta>
+       <phi>1.9962</phi>
+       <time>8.124</time>
+       <detid>872419419</detid>
+    </Item>
+    <Item name="EErechit_11">
+       <title>EE rechit</title>
+       <energy>0.564818</energy>
+       <eta>-2.39134</eta>
+       <phi>2.64734</phi>
+       <time>0.983452</time>
+       <detid>872419516</detid>
+    </Item>
+    <Item name="EErechit_12">
+       <title>EE rechit</title>
+       <energy>0.940516</energy>
+       <eta>-1.62373</eta>
+       <phi>1.97628</phi>
+       <time>2.28361</time>
+       <detid>872419547</detid>
+    </Item>
+    <Item name="EErechit_13">
+       <title>EE rechit</title>
+       <energy>1.22194</energy>
+       <eta>-2.72866</eta>
+       <phi>2.41129</phi>
+       <time>-12.3115</time>
+       <detid>872420412</detid>
+    </Item>
+    <Item name="EErechit_14">
+       <title>EE rechit</title>
+       <energy>0.548426</energy>
+       <eta>-2.88525</eta>
+       <phi>-2.47296</phi>
+       <time>28.1141</time>
+       <detid>872420523</detid>
+    </Item>
+    <Item name="EErechit_15">
+       <title>EE rechit</title>
+       <energy>0.587726</energy>
+       <eta>-2.41463</eta>
+       <phi>2.02265</phi>
+       <time>-4.43587</time>
+       <detid>872420676</detid>
+    </Item>
+    <Item name="EErechit_16">
+       <title>EE rechit</title>
+       <energy>0.656954</energy>
+       <eta>-1.90879</eta>
+       <phi>1.83277</phi>
+       <time>10.8226</time>
+       <detid>872420690</detid>
+    </Item>
+    <Item name="EErechit_17">
+       <title>EE rechit</title>
+       <energy>0.574456</energy>
+       <eta>-2.55786</eta>
+       <phi>-1.96882</phi>
+       <time>-21.6179</time>
+       <detid>872420899</detid>
+    </Item>
+    <Item name="EErechit_18">
+       <title>EE rechit</title>
+       <energy>0.743097</energy>
+       <eta>-2.23201</eta>
+       <phi>1.85291</phi>
+       <time>17.2839</time>
+       <detid>872420937</detid>
+    </Item>
+    <Item name="EErechit_19">
+       <title>EE rechit</title>
+       <energy>0.622875</energy>
+       <eta>-2.28472</eta>
+       <phi>-1.82291</phi>
+       <time>-9.5758</time>
+       <detid>872421021</detid>
+    </Item>
+    <Item name="EErechit_20">
+       <title>EE rechit</title>
+       <energy>0.775899</energy>
+       <eta>-2.70041</eta>
+       <phi>1.96137</phi>
+       <time>7.05658</time>
+       <detid>872421056</detid>
+    </Item>
+    <Item name="EErechit_21">
+       <title>EE rechit</title>
+       <energy>0.98316</energy>
+       <eta>-2.52463</eta>
+       <phi>1.89492</phi>
+       <time>20.7354</time>
+       <detid>872421059</detid>
+    </Item>
+    <Item name="EErechit_22">
+       <title>EE rechit</title>
+       <energy>2.09162</energy>
+       <eta>-2.24296</eta>
+       <phi>1.81227</phi>
+       <time>12.6527</time>
+       <detid>872421065</detid>
+    </Item>
+    <Item name="EErechit_23">
+       <title>EE rechit</title>
+       <energy>0.579534</energy>
+       <eta>-2.02717</eta>
+       <phi>-1.72619</phi>
+       <time>20.8717</time>
+       <detid>872421142</detid>
+    </Item>
+    <Item name="EErechit_24">
+       <title>EE rechit</title>
+       <energy>0.797178</energy>
+       <eta>-2.66095</eta>
+       <phi>1.87129</phi>
+       <time>6.67154</time>
+       <detid>872421185</detid>
+    </Item>
+    <Item name="EErechit_25">
+       <title>EE rechit</title>
+       <energy>2.20992</energy>
+       <eta>-2.5979</eta>
+       <phi>1.85114</phi>
+       <time>-2.75476</time>
+       <detid>872421186</detid>
+    </Item>
+    <Item name="EErechit_26">
+       <title>EE rechit</title>
+       <energy>9.56441</energy>
+       <eta>-2.54111</eta>
+       <phi>1.83534</phi>
+       <time>-0.454344</time>
+       <detid>872421187</detid>
+    </Item>
+    <Item name="EErechit_27">
+       <title>EE rechit</title>
+       <energy>1.03322</energy>
+       <eta>-2.48717</eta>
+       <phi>1.82118</phi>
+       <time>1.18905</time>
+       <detid>872421188</detid>
+    </Item>
+    <Item name="EErechit_28">
+       <title>EE rechit</title>
+       <energy>0.920186</energy>
+       <eta>-2.89036</eta>
+       <phi>1.86561</phi>
+       <time>8.85001</time>
+       <detid>872421310</detid>
+    </Item>
+    <Item name="EErechit_29">
+       <title>EE rechit</title>
+       <energy>1.03296</energy>
+       <eta>-2.61294</eta>
+       <phi>1.79183</phi>
+       <time>7.70331</time>
+       <detid>872421314</detid>
+    </Item>
+    <Item name="EErechit_30">
+       <title>EE rechit</title>
+       <energy>1.57353</energy>
+       <eta>-2.5545</eta>
+       <phi>1.77914</phi>
+       <time>-0.286811</time>
+       <detid>872421315</detid>
+    </Item>
+    <Item name="EErechit_31">
+       <title>EE rechit</title>
+       <energy>0.58042</energy>
+       <eta>-2.49916</eta>
+       <phi>1.76781</phi>
+       <time>15.1944</time>
+       <detid>872421316</detid>
+    </Item>
+    <Item name="EErechit_32">
+       <title>EE rechit</title>
+       <energy>0.515641</energy>
+       <eta>-2.44664</eta>
+       <phi>1.75763</phi>
+       <time>-1.59831</time>
+       <detid>872421317</detid>
+    </Item>
+    <Item name="EErechit_33">
+       <title>EE rechit</title>
+       <energy>1.03302</energy>
+       <eta>-2.62458</eta>
+       <phi>1.73091</phi>
+       <time>11.356</time>
+       <detid>872421442</detid>
+    </Item>
+    <Item name="EErechit_34">
+       <title>EE rechit</title>
+       <energy>7.2716</energy>
+       <eta>-2.56483</eta>
+       <phi>1.72158</phi>
+       <time>-0.553813</time>
+       <detid>872421443</detid>
+    </Item>
+    <Item name="EErechit_35">
+       <title>EE rechit</title>
+       <energy>1.11031</energy>
+       <eta>-2.5084</eta>
+       <phi>1.71328</phi>
+       <time>1.63244</time>
+       <detid>872421444</detid>
+    </Item>
+    <Item name="EErechit_36">
+       <title>EE rechit</title>
+       <energy>0.577004</energy>
+       <eta>-2.40416</eta>
+       <phi>1.69912</phi>
+       <time>7.17547</time>
+       <detid>872421446</detid>
+    </Item>
+    <Item name="EErechit_37">
+       <title>EE rechit</title>
+       <energy>0.998384</energy>
+       <eta>-1.65241</eta>
+       <phi>1.62909</phi>
+       <time>4.62891</time>
+       <detid>872421469</detid>
+    </Item>
+    <Item name="EErechit_38">
+       <title>EE rechit</title>
+       <energy>0.695726</energy>
+       <eta>-2.51471</eta>
+       <phi>-1.65789</phi>
+       <time>-8.79019</time>
+       <detid>872421537</detid>
+    </Item>
+    <Item name="EErechit_39">
+       <title>EE rechit</title>
+       <energy>0.752978</energy>
+       <eta>-2.77035</eta>
+       <phi>1.68382</phi>
+       <time>11.7014</time>
+       <detid>872421568</detid>
+    </Item>
+    <Item name="EErechit_40">
+       <title>EE rechit</title>
+       <energy>0.989474</energy>
+       <eta>-2.57191</eta>
+       <phi>1.66301</phi>
+       <time>1.45296</time>
+       <detid>872421571</detid>
+    </Item>
+    <Item name="EErechit_41">
+       <title>EE rechit</title>
+       <energy>1.53602</energy>
+       <eta>-2.51471</eta>
+       <phi>1.65789</phi>
+       <time>11.8974</time>
+       <detid>872421572</detid>
+    </Item>
+    <Item name="EErechit_42">
+       <title>EE rechit</title>
+       <energy>0.555522</energy>
+       <eta>-2.51799</eta>
+       <phi>1.60197</phi>
+       <time>1.16248</time>
+       <detid>872421700</detid>
+    </Item>
+    <Item name="EErechit_43">
+       <title>EE rechit</title>
+       <energy>0.829412</energy>
+       <eta>-2.46354</eta>
+       <phi>1.60032</phi>
+       <time>-6.40254</time>
+       <detid>872421701</detid>
+    </Item>
+    <Item name="EErechit_44">
+       <title>EE rechit</title>
+       <energy>1.00069</energy>
+       <eta>-1.82557</eta>
+       <phi>1.5283</phi>
+       <time>-0.882667</time>
+       <detid>872421974</detid>
+    </Item>
+    <Item name="EErechit_45">
+       <title>EE rechit</title>
+       <energy>1.29574</energy>
+       <eta>-2.75974</eta>
+       <phi>1.38644</phi>
+       <time>8.65897</time>
+       <detid>872422080</detid>
+    </Item>
+    <Item name="EErechit_46">
+       <title>EE rechit</title>
+       <energy>1.79546</energy>
+       <eta>-2.69164</eta>
+       <phi>1.3987</phi>
+       <time>-1.31782</time>
+       <detid>872422081</detid>
+    </Item>
+    <Item name="EErechit_47">
+       <title>EE rechit</title>
+       <energy>0.541382</energy>
+       <eta>-2.88571</eta>
+       <phi>0.899441</phi>
+       <time>-11.1565</time>
+       <detid>872422716</detid>
+    </Item>
+    <Item name="EErechit_48">
+       <title>EE rechit</title>
+       <energy>0.746687</energy>
+       <eta>-2.55658</eta>
+       <phi>0.395161</phi>
+       <time>3.91905</time>
+       <detid>872423737</detid>
+    </Item>
+    <Item name="EErechit_49">
+       <title>EE rechit</title>
+       <energy>0.560572</energy>
+       <eta>-2.0687</eta>
+       <phi>-0.887029</phi>
+       <time>23.3441</time>
+       <detid>872423965</detid>
+    </Item>
+    <Item name="EErechit_50">
+       <title>EE rechit</title>
+       <energy>0.524892</energy>
+       <eta>-1.70842</eta>
+       <phi>-0.979326</phi>
+       <time>-13.4589</time>
+       <detid>872424593</detid>
+    </Item>
+    <Item name="EErechit_51">
+       <title>EE rechit</title>
+       <energy>0.61593</energy>
+       <eta>1.7435</eta>
+       <phi>2.89721</phi>
+       <time>-4.78063</time>
+       <detid>872433340</detid>
+    </Item>
+    <Item name="EErechit_52">
+       <title>EE rechit</title>
+       <energy>0.588273</energy>
+       <eta>2.10421</eta>
+       <phi>3.04848</phi>
+       <time>13.8496</time>
+       <detid>872434741</detid>
+    </Item>
+    <Item name="EErechit_53">
+       <title>EE rechit</title>
+       <energy>0.637874</energy>
+       <eta>2.15727</eta>
+       <phi>-2.67075</phi>
+       <time>5.45218</time>
+       <detid>872435239</detid>
+    </Item>
+    <Item name="EErechit_54">
+       <title>EE rechit</title>
+       <energy>0.52363</energy>
+       <eta>2.20489</eta>
+       <phi>2.7829</phi>
+       <time>-10.9594</time>
+       <detid>872435259</detid>
+    </Item>
+    <Item name="EErechit_55">
+       <title>EE rechit</title>
+       <energy>0.528367</energy>
+       <eta>2.26654</eta>
+       <phi>2.7121</phi>
+       <time>30.0514</time>
+       <detid>872435516</detid>
+    </Item>
+    <Item name="EErechit_56">
+       <title>EE rechit</title>
+       <energy>0.609117</energy>
+       <eta>2.17897</eta>
+       <phi>-2.35766</phi>
+       <time>8.96879</time>
+       <detid>872435873</detid>
+    </Item>
+    <Item name="EErechit_57">
+       <title>EE rechit</title>
+       <energy>0.616992</energy>
+       <eta>2.41381</eta>
+       <phi>-2.69184</phi>
+       <time>19.136</time>
+       <detid>872435882</detid>
+    </Item>
+    <Item name="EErechit_58">
+       <title>EE rechit</title>
+       <energy>0.532781</energy>
+       <eta>2.45121</eta>
+       <phi>2.54819</phi>
+       <time>7.30827</time>
+       <detid>872436157</detid>
+    </Item>
+    <Item name="EErechit_59">
+       <title>EE rechit</title>
+       <energy>0.569681</energy>
+       <eta>2.36046</eta>
+       <phi>-2.28651</phi>
+       <time>-9.34382</time>
+       <detid>872436387</detid>
+    </Item>
+    <Item name="EErechit_60">
+       <title>EE rechit</title>
+       <energy>0.681002</energy>
+       <eta>2.90143</eta>
+       <phi>-2.65993</phi>
+       <time>-8.68599</time>
+       <detid>872436781</detid>
+    </Item>
+    <Item name="EErechit_61">
+       <title>EE rechit</title>
+       <energy>0.584147</energy>
+       <eta>2.2594</eta>
+       <phi>-1.90628</phi>
+       <time>-7.30862</time>
+       <detid>872437149</detid>
+    </Item>
+    <Item name="EErechit_62">
+       <title>EE rechit</title>
+       <energy>0.515693</energy>
+       <eta>2.90271</eta>
+       <phi>-2.05611</phi>
+       <time>33.0168</time>
+       <detid>872437416</detid>
+    </Item>
+    <Item name="EErechit_63">
+       <title>EE rechit</title>
+       <energy>1.86601</energy>
+       <eta>2.61294</eta>
+       <phi>-1.79183</phi>
+       <time>0.604944</time>
+       <detid>872437667</detid>
+    </Item>
+    <Item name="EErechit_64">
+       <title>EE rechit</title>
+       <energy>0.733197</energy>
+       <eta>2.22585</eta>
+       <phi>-1.63569</phi>
+       <time>14.7874</time>
+       <detid>872437915</detid>
+    </Item>
+    <Item name="EErechit_65">
+       <title>EE rechit</title>
+       <energy>0.696653</energy>
+       <eta>2.35871</eta>
+       <phi>-1.64487</phi>
+       <time>1.60248</time>
+       <detid>872437918</detid>
+    </Item>
+    <Item name="EErechit_66">
+       <title>EE rechit</title>
+       <energy>1.05178</energy>
+       <eta>2.91108</eta>
+       <phi>1.35592</phi>
+       <time>14.0396</time>
+       <detid>872438462</detid>
+    </Item>
+    <Item name="EErechit_67">
+       <title>EE rechit</title>
+       <energy>0.519039</energy>
+       <eta>1.65092</eta>
+       <phi>-1.48975</phi>
+       <time>-7.32762</time>
+       <detid>872438536</detid>
+    </Item>
+    <Item name="EErechit_68">
+       <title>EE rechit</title>
+       <energy>0.59693</energy>
+       <eta>2.86414</eta>
+       <phi>-1.19973</phi>
+       <time>17.5369</time>
+       <detid>872438695</detid>
+    </Item>
+    <Item name="EErechit_69">
+       <title>EE rechit</title>
+       <energy>0.99666</energy>
+       <eta>2.90271</eta>
+       <phi>-1.08548</phi>
+       <time>4.59675</time>
+       <detid>872438824</detid>
+    </Item>
+    <Item name="EErechit_70">
+       <title>EE rechit</title>
+       <energy>0.578613</energy>
+       <eta>2.90271</eta>
+       <phi>1.08548</phi>
+       <time>28.1067</time>
+       <detid>872438845</detid>
+    </Item>
+    <Item name="EErechit_71">
+       <title>EE rechit</title>
+       <energy>2.72592</energy>
+       <eta>2.86242</eta>
+       <phi>1.01531</phi>
+       <time>0.10168</time>
+       <detid>872438973</detid>
+    </Item>
+    <Item name="EErechit_72">
+       <title>EE rechit</title>
+       <energy>0.566313</energy>
+       <eta>2.08244</eta>
+       <phi>1.32998</phi>
+       <time>5.22168</time>
+       <detid>872438989</detid>
+    </Item>
+    <Item name="EErechit_73">
+       <title>EE rechit</title>
+       <energy>0.626027</energy>
+       <eta>2.81936</eta>
+       <phi>0.950752</phi>
+       <time>-33.2745</time>
+       <detid>872439101</detid>
+    </Item>
+    <Item name="EErechit_74">
+       <title>EE rechit</title>
+       <energy>0.683235</energy>
+       <eta>2.83451</eta>
+       <phi>0.838856</phi>
+       <time>5.16655</time>
+       <detid>872439228</detid>
+    </Item>
+    <Item name="EErechit_75">
+       <title>EE rechit</title>
+       <energy>0.793114</energy>
+       <eta>2.77446</eta>
+       <phi>0.891626</phi>
+       <time>-3.28818</time>
+       <detid>872439229</detid>
+    </Item>
+    <Item name="EErechit_76">
+       <title>EE rechit</title>
+       <energy>0.514899</energy>
+       <eta>2.37011</eta>
+       <phi>1.14008</phi>
+       <time>1.98433</time>
+       <detid>872439237</detid>
+    </Item>
+    <Item name="EErechit_77">
+       <title>EE rechit</title>
+       <energy>0.544875</energy>
+       <eta>2.01991</eta>
+       <phi>1.23991</phi>
+       <time>35.9517</time>
+       <detid>872439374</detid>
+    </Item>
+    <Item name="EErechit_78">
+       <title>EE rechit</title>
+       <energy>1.27317</energy>
+       <eta>2.19341</eta>
+       <phi>1.0788</phi>
+       <time>2.50436</time>
+       <detid>872439624</detid>
+    </Item>
+    <Item name="EErechit_79">
+       <title>EE rechit</title>
+       <energy>0.595493</energy>
+       <eta>2.39156</eta>
+       <phi>0.892138</phi>
+       <time>22.2268</time>
+       <detid>872439746</detid>
+    </Item>
+    <Item name="EErechit_80">
+       <title>EE rechit</title>
+       <energy>0.77078</energy>
+       <eta>2.483</eta>
+       <phi>0.424394</phi>
+       <time>21.7864</time>
+       <detid>872440250</detid>
+    </Item>
+    <Item name="electron_0">
+       <title>Electron</title>
+       <pt>28.4524</pt>
+       <eta>0.405341</eta>
+       <phi>-1.16658</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_0">
+       <title>Track</title>
+       <pt>0.5669</pt>
+       <eta>-0.988893</eta>
+       <phi>-2.01542</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_1">
+       <title>Track</title>
+       <pt>0.751955</pt>
+       <eta>1.51205</eta>
+       <phi>-1.69816</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_2">
+       <title>Track</title>
+       <pt>9.6053</pt>
+       <eta>0.405345</eta>
+       <phi>-1.1665</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_3">
+       <title>Track</title>
+       <pt>1.70455</pt>
+       <eta>1.02809</eta>
+       <phi>-0.764115</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_4">
+       <title>Track</title>
+       <pt>1.29013</pt>
+       <eta>0.919419</eta>
+       <phi>-0.681786</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_5">
+       <title>Track</title>
+       <pt>0.707595</pt>
+       <eta>0.4234</eta>
+       <phi>-0.383895</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_6">
+       <title>Track</title>
+       <pt>0.764014</pt>
+       <eta>1.00718</eta>
+       <phi>-0.427122</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_7">
+       <title>Track</title>
+       <pt>0.813909</pt>
+       <eta>-0.543925</eta>
+       <phi>0.324294</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_8">
+       <title>Track</title>
+       <pt>0.64875</pt>
+       <eta>-1.79028</eta>
+       <phi>1.53479</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_9">
+       <title>Track</title>
+       <pt>3.00463</pt>
+       <eta>-1.60146</eta>
+       <phi>1.73436</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_10">
+       <title>Track</title>
+       <pt>1.03062</pt>
+       <eta>-1.73996</eta>
+       <phi>1.7538</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_11">
+       <title>Track</title>
+       <pt>2.43688</pt>
+       <eta>-1.55293</eta>
+       <phi>1.91984</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_12">
+       <title>Track</title>
+       <pt>4.91453</pt>
+       <eta>-1.54212</eta>
+       <phi>2.06439</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_13">
+       <title>Track</title>
+       <pt>1.03498</pt>
+       <eta>-1.52164</eta>
+       <phi>2.09801</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_14">
+       <title>Track</title>
+       <pt>1.10556</pt>
+       <eta>-2.3059</eta>
+       <phi>1.59894</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_15">
+       <title>Track</title>
+       <pt>0.456948</pt>
+       <eta>0.0334938</eta>
+       <phi>-3.00136</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_16">
+       <title>Track</title>
+       <pt>0.499354</pt>
+       <eta>0.91244</eta>
+       <phi>-2.25126</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_17">
+       <title>Track</title>
+       <pt>0.464113</pt>
+       <eta>0.577905</eta>
+       <phi>0.0384637</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_18">
+       <title>Track</title>
+       <pt>0.402506</pt>
+       <eta>0.815204</eta>
+       <phi>0.619456</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_19">
+       <title>Track</title>
+       <pt>0.457077</pt>
+       <eta>-1.41654</eta>
+       <phi>2.23844</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_20">
+       <title>Track</title>
+       <pt>0.445052</pt>
+       <eta>0.865468</eta>
+       <phi>2.83408</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_21">
+       <title>Track</title>
+       <pt>4.3517</pt>
+       <eta>0.730203</eta>
+       <phi>-0.923565</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_22">
+       <title>Track</title>
+       <pt>0.376797</pt>
+       <eta>1.84006</eta>
+       <phi>-2.34439</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_23">
+       <title>Track</title>
+       <pt>1.09656</pt>
+       <eta>2.47801</eta>
+       <phi>0.708621</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_24">
+       <title>Track</title>
+       <pt>0.170825</pt>
+       <eta>-1.84085</eta>
+       <phi>-2.81562</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_25">
+       <title>Track</title>
+       <pt>0.341654</pt>
+       <eta>-0.0541699</eta>
+       <phi>-1.02177</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_26">
+       <title>Track</title>
+       <pt>0.134594</pt>
+       <eta>1.6078</eta>
+       <phi>0.124038</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_27">
+       <title>Track</title>
+       <pt>0.253123</pt>
+       <eta>-2.20412</eta>
+       <phi>0.755247</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_28">
+       <title>Track</title>
+       <pt>0.109414</pt>
+       <eta>-0.984018</eta>
+       <phi>1.58729</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_29">
+       <title>Track</title>
+       <pt>0.180666</pt>
+       <eta>-1.68292</eta>
+       <phi>2.22912</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_30">
+       <title>Track</title>
+       <pt>0.351793</pt>
+       <eta>-0.995761</eta>
+       <phi>2.06858</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_31">
+       <title>Track</title>
+       <pt>0.370039</pt>
+       <eta>1.96755</eta>
+       <phi>0.135878</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="track_32">
+       <title>Track</title>
+       <pt>0.505007</pt>
+       <eta>0.398665</eta>
+       <phi>-0.933755</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="track_33">
+       <title>Track</title>
+       <pt>1.23718</pt>
+       <eta>-1.1946</eta>
+       <phi>2.19572</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>34.1705</pt>
+       <eta>0.446863</eta>
+       <theta>1.1381</theta>
+       <phi>-1.13541</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>16.788</pt>
+       <eta>-1.6114</eta>
+       <theta>2.74756</theta>
+       <phi>1.90003</phi>
+    </Item>
+    <Item name="jet_2">
+       <title>PF jet</title>
+       <pt>14.0805</pt>
+       <eta>-2.66584</eta>
+       <theta>3.00274</theta>
+       <phi>1.80663</phi>
+    </Item>
+    <Item name="jet_3">
+       <title>PF jet</title>
+       <pt>12.2162</pt>
+       <eta>0.886687</eta>
+       <theta>0.781648</theta>
+       <phi>-0.529397</phi>
+    </Item>
+    <Item name="jet_4">
+       <title>PF jet</title>
+       <pt>5.3821</pt>
+       <eta>-3.32585</eta>
+       <theta>3.06974</theta>
+       <phi>2.85268</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>2.72385</phi>
+       <pt>12.6634</pt>
+    </Item>
+  </Items>
+</ItemCollection>
